@@ -77,5 +77,5 @@ Open `signup.html` or `login.html` using Live Server or any local development se
 
 **MD Usman Khan**
 
-Frontend Web Developer
+Full Stack Developer
 
